@@ -1,1 +1,1 @@
-This is my second readme file for th egithub project
+This is my second readme file for the github project
