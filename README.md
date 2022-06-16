@@ -1,2 +1,3 @@
 My First readme.
-The followng is an introduction to git project number two
+The followng is an introduction to all ALX projects
+
